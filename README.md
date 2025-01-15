@@ -1,1 +1,2 @@
 # RhythmicFreeclaps
+This project designs a clap-activated switch using integrated circuits. A microphone detects the sound of a clap, and the circuit processes it using an operational amplifier and a bistable multivibrator. The output toggles between ON and OFF states for each clap, controlling the connected device. It demonstrates the practical application of sound detection and switching in home automation systems.
